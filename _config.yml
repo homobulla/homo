@@ -126,12 +126,10 @@ scheme: Gemini
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
   GitHub:  https://github.com/homobulla || github
-  个人技术图谱：https://homobulla.site/Technical-tree
 
 social_icons:
   enable: true
-  GitHub: github
-  
+
 
 # Blog rolls
 links_icon: link
