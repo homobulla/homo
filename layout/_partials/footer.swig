@@ -1,6 +1,6 @@
 
 <div class="copyright">
-<span><a href="www.beian.miit.gov.cn">京ICP备19045349号-1<a/></span>
+<span><a href="http://www.beian.miit.gov.cn">京ICP备19045349号-1<a/></span>
 {#
 #}{% set current = date(Date.now(), "YYYY") %}{#
 #}&copy; {% if theme.footer.since and theme.footer.since != current %}{{ theme.footer.since }} &mdash; {% endif %}{#
